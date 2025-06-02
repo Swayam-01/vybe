@@ -99,7 +99,7 @@ Ensure the following are installed:
      ```bash
      npx convex deploy
      ```
-   - Add the `CONVEX_DEPLOYMENT` ID (e.g., `dev:moonlit-crow-448`) to your `.env.local` file.
+   - Add the `CONVEX_DEPLOYMENT` ID to your `.env.local` file.
 
 3. **Install Convex**:
    ```bash
