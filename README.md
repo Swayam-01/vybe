@@ -161,9 +161,5 @@ We welcome contributions! Please review our [Contributing Guide](CONTRIBUTING.md
 
 ---
 
-## 📬 Contact
-Questions or feedback? Reach out to **codernotme@gmail.com**.
-
----
 ## Preview
 ![image](https://github.com/user-attachments/assets/cc8ea663-5f2d-4aa1-b3b4-752ba639a655)
